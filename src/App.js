@@ -10,7 +10,6 @@ function App() {
   let [textList, settextList] = useState("");
   let [table, settable] = useState([]);
   function submit() {
-    // parse
     console.log(textList);
     var lines = textList.match(/[^\r\n]+/g);
     console.log(lines);
