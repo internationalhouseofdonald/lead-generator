@@ -14,7 +14,7 @@
     "react-scripts": "3.4.3",
     "reactstrap": "^8.6.0",
     "sass": "^1.26.11",
-    "uuid": "^8.3.0"
+    "uuid": "^8.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
